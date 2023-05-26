@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0d2018-8578-4659-8758-8e7e59d6d812" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/FindMin_Max_Linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MargeTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MargeTwoArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +45,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MargeTwoArray">
-    <configuration name="DuplicateRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.DuplicateRemove" />
+  <component name="RunManager" selected="Application.FindMin_Max_Linkedlist">
+    <configuration name="FindMin_Max_Linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.FindMin_Max_Linkedlist" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMin_Max_Linkedlist" />
         <item itemvalue="Application.MargeTwoArray" />
         <item itemvalue="Application.FindTheElementEndNumber" />
         <item itemvalue="Application.ReversElement" />
         <item itemvalue="Application.middlefindelement" />
-        <item itemvalue="Application.DuplicateRemove" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684745632746</updated>
       <workItem from="1684745633826" duration="1497000" />
-      <workItem from="1685089985476" duration="5037000" />
+      <workItem from="1685089985476" duration="5843000" />
     </task>
     <servers />
   </component>
