@@ -3,7 +3,6 @@ package org.example.linkedlist;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedList;
-import java.util.stream.Collectors;
 
 public class SwapToElement {
     public static void main(String[] args) {
