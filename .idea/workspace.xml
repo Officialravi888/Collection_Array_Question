@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0d2018-8578-4659-8758-8e7e59d6d812" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ReversElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ReversElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MargeTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MargeTwoArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindTheElementEndNumber">
+  <component name="RunManager" selected="Application.MargeTwoArray">
     <configuration name="DuplicateRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.DuplicateRemove" />
       <module name="question" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.ReversElement" />
+    <configuration name="MargeTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.MargeTwoArray" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapToElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.SwapToElement" />
+    <configuration name="ReversElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.ReversElement" />
       <module name="question" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MargeTwoArray" />
         <item itemvalue="Application.FindTheElementEndNumber" />
         <item itemvalue="Application.ReversElement" />
         <item itemvalue="Application.middlefindelement" />
         <item itemvalue="Application.DuplicateRemove" />
-        <item itemvalue="Application.SwapToElement" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684745632746</updated>
       <workItem from="1684745633826" duration="1497000" />
-      <workItem from="1685089985476" duration="3954000" />
+      <workItem from="1685089985476" duration="5037000" />
     </task>
     <servers />
   </component>
